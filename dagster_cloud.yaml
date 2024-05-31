@@ -1,0 +1,6 @@
+locations:
+- build:
+    directory: ./test
+  code_source:
+    module_name: test.definitions
+  location_name: test
